@@ -52,15 +52,8 @@ Here are some ideas to get you started:
   <span class="tech-item beego">⚡Beego</span>
   <span class="tech-item vue">👯Vue</span>
 </div>
-<p align="left">
-  <span style="font-family: 'Comic Sans MS', cursive; color: #FF00FF;">😄</span>
-  <span style="font-family: 'Arial', sans-serif; color: #0000FF; font-size: 20px;">
-    I am Gao Han, currently focusing on 
-    <span style="font-weight: bold;">Embodied Intelligence</span> research and 
-    <span style="background-color: #FFFF00;">Back-end development</span>.
-  </span>
-</p>
 
+<div align="left">
   <div align="left">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gaohan-cmd&show_icons=true&theme=onedark" /> 
