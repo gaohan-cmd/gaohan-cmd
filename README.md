@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" />
 	</a>
 </p>
-<div align="center">
+<div align="left">
 <h3 align="left">Languages and Tools:</h3>
 <div class="tech-stack">
   <span class="tech-item spring-boot">🔭SpringBoot</span>
