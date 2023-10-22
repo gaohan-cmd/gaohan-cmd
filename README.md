@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <head>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
+<div align="left">
 <p align="left">
   <span style="font-family: 'Comic Sans MS', cursive; color: #FF00FF;">😄</span>
   <span style="font-family: 'Arial', sans-serif; color: #0000FF; font-size: 20px;">
@@ -25,6 +26,7 @@ Here are some ideas to get you started:
     <span style="background-color: #FFFF00;">Back-end development</span>.
   </span>
 </p>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
