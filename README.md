@@ -29,35 +29,37 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="your link" target="blank">
+	<a href="https://hexo-ghca818.vercel.app/" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" />
 	</a>
-	<a href="your link" target="blank">
+	<a href="https://hexo-ghca818.vercel.app/" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" />
 	</a>
-	<a href="your link" target="blank">
+	<a href="https://hexo-ghca818.vercel.app/" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" />
 	</a>
-	<a href="your link" target="blank">
+	<a href="https://hexo-ghca818.vercel.app/" target="blank">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" />
 	</a>
 </p>
 <div align="center">
 <h3 align="left">Languages and Tools:</h3>
+<div class="tech-stack">
+  <span class="tech-item spring-boot">🔭SpringBoot</span>
+  <span class="tech-item spring-cloud">🌱 SpringCloud</span>
+  <span class="tech-item beego">⚡Beego</span>
+  <span class="tech-item vue">👯Vue</span>
+</div>
 <p align="left">
-	<a href="https://hexo-ghca818.vercel.app/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40" />
-	</a>
-	<a href="https://hexo-ghca818.vercel.app/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-	</a>
-	<a href="https://hexo-ghca818.vercel.app/" target="_blank">
-		<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    <i style="color: 
-red" class="material-icons">face</i>
-	</a>
+  <span style="font-family: 'Comic Sans MS', cursive; color: #FF00FF;">😄</span>
+  <span style="font-family: 'Arial', sans-serif; color: #0000FF; font-size: 20px;">
+    I am Gao Han, currently focusing on 
+    <span style="font-weight: bold;">Embodied Intelligence</span> research and 
+    <span style="background-color: #FFFF00;">Back-end development</span>.
+  </span>
 </p>
+
   
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaohan-cmd&show_icons=true&theme=onedark&count_private=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=gaohan-cmd&show_icons=true&theme=onedark" /> 
 </div>
