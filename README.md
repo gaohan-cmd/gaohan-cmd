@@ -14,10 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<head>
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
 <p align="left">
-  I am Gao Han, currently focusing on Embodied Intelligence research and Back-end development.
+  <span style="font-family: 'Comic Sans MS', cursive; color: #FF00FF;">😄</span>
+  <span style="font-family: 'Arial', sans-serif; color: #0000FF; font-size: 20px;">
+    I am Gao Han, currently focusing on 
+    <span style="font-weight: bold;">Embodied Intelligence</span> research and 
+    <span style="background-color: #FFFF00;">Back-end development</span>.
+  </span>
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
